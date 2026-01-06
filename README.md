@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rutuja+Kumbhar!;" />
 </h1>
 
-![MasterHead](1.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RutujaKumbhar17&label=Profile%50views&color=0e75b6&style=flat" alt="RutujaKumbhar17" /> </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
