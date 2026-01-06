@@ -1,7 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rutuja+Kumbhar!;" />
 </h1>
-![Rutuja](loop.webp)
+
+<p align="center">
+  <img src="loop.webp" alt="Rutuja Coding Animation" width="100%">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RutujaKumbhar17&label=Profile%50views&color=0e75b6&style=flat" alt="RutujaKumbhar17" /> </p>
