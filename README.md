@@ -41,8 +41,6 @@
 ### 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=RutujaKumbhar17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
 - 📫 How to reach me **rutujakumbhar.prof@gmail.com**
 - 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=RutujaKumbhar17&label=Profile%50views&color=0e75b6&style=flat" alt="RutujaKumbhar17" /> </p>
