@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rutuja+Kumbhar!;" />
 </h1>
 
-
 <p align="center">
   <img src="loop.webp" alt="Rutuja Coding Animation" width="100%">
 </p>
@@ -42,7 +41,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=RutujaKumbhar17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 📫 How to reach me **rutujakumbhar.prof@gmail.com**
-- 
+- LinkedIn: **https://www.linkedin.com/in/rutuja-kumbhar-a7311b2a9/**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=RutujaKumbhar17&label=Profile%50views&color=0e75b6&style=flat" alt="RutujaKumbhar17" /> </p>
 
 ### ✍️ Random Dev Quote
