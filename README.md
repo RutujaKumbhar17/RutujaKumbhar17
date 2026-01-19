@@ -39,8 +39,19 @@
 ### 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=RutujaKumbhar17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **rutujakumbhar.prof@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/rutuja-kumbhar-a7311b2a9/**
+
+
+ ## 📧 Connect with Me
+
+**Rutuja Maruti Kumbhar**
+
+- 🌐 [My Portfolio](rutujakumbhar.netlify.app)
+
+- 💼 [My LinkedIn](https://www.linkedin.com/in/rutuja-kumbhar-a7311b2a9/)
+
+- 👨‍💻 [My GitHub](https://github.com/RutujaKumbhar17)
+
+- 📧 [Email Id](rutujakumbhar.prof@gmail.com)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=RutujaKumbhar17&label=Profile%50views&color=0e75b6&style=flat" alt="RutujaKumbhar17" /> </p>
 
 ### ✍️ Random Dev Quote
