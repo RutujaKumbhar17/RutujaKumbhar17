@@ -45,7 +45,7 @@
 
 **Rutuja Maruti Kumbhar**
 
-- 🌐 [My Portfolio](rutujakumbhar.netlify.app)
+- 🌐 [My Portfolio](https://rutujakumbhar.netlify.app)
 
 - 💼 [My LinkedIn](https://www.linkedin.com/in/rutuja-kumbhar-a7311b2a9/)
 
