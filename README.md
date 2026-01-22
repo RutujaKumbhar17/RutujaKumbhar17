@@ -38,8 +38,6 @@
 ### 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=RutujaKumbhar17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
  ## 📧 Connect with Me
 
 **Rutuja Maruti Kumbhar**
