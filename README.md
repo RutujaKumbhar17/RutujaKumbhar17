@@ -32,7 +32,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaKumbhar17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="center">Leetcode Info<h2>
-
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/rutujakumbhar17?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
 </p>
 
@@ -51,7 +50,7 @@
 - 📧 [Email Id](https://rutujakumbhar.prof@gmail.com)
   
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=RutujaKumbhar17&label=Profile%50views&color=0e75b6&style=flat" alt="RutujaKumbhar17" /> </p>
-
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
